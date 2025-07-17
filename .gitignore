@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+experiment_output.log
+experiment_log.txt
+
+# Temporary files
+*.tmp
+*.bak
+debug_*.py
+monitor_*.py
+run_quick_*.py
+run_experiments.py
+run_optimized_experiments.py
+
+# Report drafts
+experiment_report.md
+experiment_summary.txt
+quick_experiment_report.txt
